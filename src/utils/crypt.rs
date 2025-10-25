@@ -1,3 +1,4 @@
+#![allow(unused)]
 use std::{env, fmt, fs, io::{self, stdin, Read}};
 
 #[derive(Debug)]
